@@ -1,0 +1,11 @@
+.WelcomePage {
+    text-align: center;
+}
+
+img {
+    margin-top: 50px
+}
+#logout {
+    margin-top: 50px;
+    width: 100px;
+}
